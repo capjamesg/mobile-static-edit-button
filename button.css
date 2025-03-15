@@ -1,0 +1,9 @@
+.edit-button {
+  height: 2rem;
+  bottom: 1rem;
+  position: absolute;
+  right: 1rem;
+  background-color: white;
+  border-radius: 100%;
+  padding: 0.5rem;
+}
